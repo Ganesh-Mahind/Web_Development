@@ -1,0 +1,39 @@
+/* div{
+    background-color: rebeccapurple;
+      width: 100px;
+      height: 100px;
+      display: inline-block;
+        
+    }
+
+span{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;    
+} */
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(159, 159, 253);
+    position: relative; /* Changed to relative */
+    top: 400px;
+    left: 100px;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+    position: absolute;
+    top: 70px;
+    left: 50px;
+}
+
+
+button:hover{
+    font-size: 1.1em;
+    background-color: burlywood;
+
+}

@@ -1,0 +1,41 @@
+#demo1{
+    border-style: solid;
+    border-width: 4px;
+    border: 3px solid rgb(234, 60, 234);
+     border-radius: 20px;
+
+}
+
+p{
+    border-bottom: 3px solid red;
+    border-top: 3px solid yellow;
+    border-left: 3px dotted orange;
+    border-right: 3px dotted green;
+    
+    border-radius: 10px;
+
+}
+
+#demo2{
+    text-shadow: 3px 3px 5px red ,-3px -3px 5px skyblue;
+
+}
+
+.box{
+border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+
+}
+
+
+#box1{
+    background-color: rgb(233, 102, 102);
+    margin-top: 50px;
+    margin-left: auto;
+}
+
+#box2{
+    background-color: rgb(136, 112, 191);
+}

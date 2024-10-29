@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+
+}
+
+.navbar ul{
+    list-style: none;
+    background-attachment: grey;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center the navigation items */
+    
+}
+
+.navbar a{
+    color: rgb(210, 14, 187);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+   
+
+}
+
+.navbar a:hover{
+    background-color: yellowgreen;
+
+}
+
+.navbar li{
+float: left;
+left: 200px;
+}

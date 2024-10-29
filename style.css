@@ -8,3 +8,27 @@ caption{
 
 
 }
+
+h1{
+    color: rgb(49, 232, 92);
+font-weight: bold;
+font-style: italic;
+font-size: 1em;
+}
+
+.odd{
+    color: rgb(118, 110, 110);
+
+}
+
+.even{
+    color: blue;
+}
+
+.p1{
+    font-family: Verdana, arial;
+}
+.p2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 0.5em;
+}
